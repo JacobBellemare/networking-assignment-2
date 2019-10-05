@@ -27,12 +27,7 @@ public class RequestHandler extends Thread {
 
 	public RequestHandler(Socket clientSocket, ProxyServer proxyServer) {
 
-		
 		this.clientSocket = clientSocket;
-		
-
-		this.server = proxyServer;
-
 		try {
 			clientSocket.setSoTimeout(2000);
 			inFromClient = clientSocket.getInputStream();
@@ -57,7 +52,31 @@ public class RequestHandler extends Thread {
 			 * (3) Otherwise, call method proxyServertoClient to process the GET request
 			 *
 		*/
-
+		//get the request from the client/browser
+		String requestString;
+		try {
+			requestString = proxyToClientBufferedReader.readLine();
+		} catch(IOException e) {
+			e.printStackTrace();
+			System.out.println("Error reading request from client");
+			return;
+		}
+		
+		//now Parse out URL successfully read from client/browser
+		System.out.println("Request Recieved" + requestString);
+		//get the request type
+		String requestType = requestString.substring(0, requestString.indexOf(' '));
+		//remove the request type and space
+		String urlString = requestString.substring(requestString.indexOf(' ')+1);
+		//remove everything past next space
+		urlString = urlString.substring(0,urlString.indexOf(' '));
+		//Prepend http:// if needed to create correct URL
+		if(!urlString.substring(0,4).contentEquals("http")) {
+			String temp = "http://";
+			urlString = temp + urlString;
+		}
+		
+		// check request type
 	}
 
 	
@@ -69,7 +88,7 @@ public class RequestHandler extends Thread {
 		OutputStream outToServer;
 		
 		// Create Buffered output stream to write to cached copy of file
-		String fileName = "cached/" + generateFileName() + ".dat";
+		String fileName = "cached/" + generateRandomFileName() + ".dat";
 		
 		// to handle binary content, byte is used
 		byte[] serverReply = new byte[4096];
