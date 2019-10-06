@@ -76,17 +76,15 @@ public class RequestHandler extends Thread {
 			urlString = temp + urlString;
 		}
 		
-		// check request type
 	}
 
 	
-	private boolean proxyServertoClient(byte[] clientRequest) {
-
+	private boolean proxyServertoClient(byte[] clientRequest) throws IOException{
+		
 		FileOutputStream fileWriter = null;
 		Socket serverSocket = null;
 		InputStream inFromServer;
 		OutputStream outToServer;
-		
 		// Create Buffered output stream to write to cached copy of file
 		String fileName = "cached/" + generateRandomFileName() + ".dat";
 		
@@ -103,6 +101,39 @@ public class RequestHandler extends Thread {
 		 * (5) close file, and sockets.
 		*/
 		
+		//create a socket to the webserver
+		
+			InetAddress address = InetAddress.getByName("www.cs.ndsu.nodak.edu");
+			serverSocket = new Socket(address,80);
+			serverSocket.setSoTimeout(5000);
+			//send clients request to the web server. use flush after writing.
+			inFromServer =  new DataInputStream(clientSocket.getInputStream());
+			outToServer = new DataOutputStream(clientSocket.getOutputStream());
+			fileWriter = new FileOutputStream(clientSocket.getOutputStream());
+			//use a while loop to read all responses from webserver and send back to the client
+			int read; 
+			do { 
+				 read = serverSocket.getInputStream().read(clientRequest);
+					if (read > 0) {
+						clientSocket.getOutputStream().write(serverReply, 0, read);
+						
+						if (serverSocket.getInputStream().available() < 1) {
+							clientSocket.getOutputStream().flush();
+						}	 
+					}	
+			 
+			 }while(read >= 0);
+				 
+			//write the web server's response to a cache file, put the request url and cache
+			
+			//close the file and the sockets.
+		
+			serverSocket.close();
+		
+		return serverSocket.getKeepAlive();
+		
+		
+	
 	}
 	
 	
