@@ -16,6 +16,10 @@ import java.net.InetAddress;
 import java.net.Socket;
 import java.net.SocketTimeoutException;
 import java.net.URL;
+import java.util.Date;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 import javax.imageio.ImageIO;
 
 public class RequestHandler implements Runnable {
@@ -70,17 +74,36 @@ public class RequestHandler implements Runnable {
 
         // Get Request from client
         String requestString;
-        try{
-            requestString = proxyToClientBr.readLine();
-        } catch (IOException e) {
-            e.printStackTrace();
-            System.out.println("Error reading request from client");
-            return;
+        Date currentdate = new Date(System.currentTimeMillis());
+        String builtstring = "";
+        File proxyLog = new File("proxy.log");
+		FileWriter fileWriter = null;
+		try {
+			fileWriter = new FileWriter(proxyLog,true);
+		} catch (IOException e1) {
+			
+			e1.printStackTrace();
+		}
+    
+        try {
+        requestString = proxyToClientBr.readLine();
+        System.out.println("START OF REQUEST HEADER");
+        builtstring+= "\n" + requestString + "\n";
+        builtstring += clientSocket.getInetAddress().toString() + "\n";
+        builtstring += currentdate.toString();
+        System.out.println(builtstring);
+		
+		fileWriter.write(builtstring);
+		
+        }catch(IOException e) {
+        	e.printStackTrace();
+			System.out.println("Error reading request from client");
+			return;
         }
 
         // Parse out URL
 
-        System.out.println("Reuest Received " + requestString);
+        System.out.println("Request Received " + requestString);
         // Get the Request type
         String request = requestString.substring(0,requestString.indexOf(' '));
 
@@ -122,6 +145,11 @@ public class RequestHandler implements Runnable {
                 sendNonCachedToClient(urlString);
             }
         }
+        try {
+			fileWriter.close();
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
     }
 
 
@@ -239,7 +267,8 @@ public class RequestHandler implements Runnable {
 
             try{
                 // Create File to cache
-                fileToCache = new File(System.getProperty("user.dir") + "/cached", fileName);
+            	System.out.println(System.getProperty("user.dir"));
+                fileToCache = new File(System.getProperty("user.dir") + "\\cached", fileName);
 
                 if(!fileToCache.exists()){
                     fileToCache.createNewFile();

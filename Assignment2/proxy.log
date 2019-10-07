@@ -1,0 +1,554 @@
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=33&partnerId=1068292&entryId=1_7km0vsxg&sessionId=e636117d-99d0-fb06-06d6-1761b7348f7f%3A26e29058-8dcd-d027-fd89-54050af4beb6&eventIndex=5&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0.951043&ks=MTk1Mjc0MzVlYWY4NzUyMGIzNjZlNmM0MzE4MWQwZWY5YjVhNWIxOHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQzMjM3NDswOzE1NzAzODkxNzQuNzcwNjs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:28:08 CDT 2019GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:35 CDT 2019POST http://ocsp.entrust.net/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:40 CDT 2019GET http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:40 CDT 2019GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:40 CDT 2019POST http://ocsp.entrust.net/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:40 CDT 2019GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:40 CDT 2019GET http://go.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:40 CDT 2019GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:40 CDT 2019GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:40 CDT 2019GET http://aglobal.go.com/stat/dolWebAnalytics.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:40 CDT 2019GET http://imasdk.googleapis.com/js/sdkloader/ima3.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:41 CDT 2019POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:41 CDT 2019POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:41 CDT 2019GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=1&partnerId=1068292&entryId=1_7km0vsxg&sessionId=bec2f75a-0819-dcf9-43fd-42c011efe59f%3Acd480ee1-ebc4-aebb-96cf-c84a7dbb35d5&eventIndex=1&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:41 CDT 2019GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=1&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412201239&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=bec2f75a-0819-dcf9-43fd-42c011efe59f%3Acd480ee1-ebc4-aebb-96cf-c84a7dbb35d5&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:41 CDT 2019GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=2&partnerId=1068292&entryId=1_7km0vsxg&sessionId=bec2f75a-0819-dcf9-43fd-42c011efe59f%3Acd480ee1-ebc4-aebb-96cf-c84a7dbb35d5&eventIndex=2&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:41 CDT 2019GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=2&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412201574&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=bec2f75a-0819-dcf9-43fd-42c011efe59f%3Acd480ee1-ebc4-aebb-96cf-c84a7dbb35d5&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:41 CDT 2019GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=3&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412201581&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=bec2f75a-0819-dcf9-43fd-42c011efe59f%3Acd480ee1-ebc4-aebb-96cf-c84a7dbb35d5&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:41 CDT 2019GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&actualBitrate=493.7373046875&eventType=43&partnerId=1068292&entryId=1_7km0vsxg&sessionId=bec2f75a-0819-dcf9-43fd-42c011efe59f%3Acd480ee1-ebc4-aebb-96cf-c84a7dbb35d5&eventIndex=3&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:41 CDT 2019GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&bufferTime=0&bufferTimeSum=0&actualBitrate=493.7373046875&joinTime=0.251&canPlay=0.553&eventType=3&partnerId=1068292&entryId=1_7km0vsxg&sessionId=bec2f75a-0819-dcf9-43fd-42c011efe59f%3Acd480ee1-ebc4-aebb-96cf-c84a7dbb35d5&eventIndex=4&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:41 CDT 2019POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:42 CDT 2019POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:42 CDT 2019GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=33&partnerId=1068292&entryId=1_7km0vsxg&sessionId=bec2f75a-0819-dcf9-43fd-42c011efe59f%3Acd480ee1-ebc4-aebb-96cf-c84a7dbb35d5&eventIndex=5&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0.947165&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:42 CDT 2019GET http://go.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:43 CDT 2019GET http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:43 CDT 2019GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:43 CDT 2019POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:43 CDT 2019POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:43 CDT 2019POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:43 CDT 2019GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:44 CDT 2019GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:44 CDT 2019GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:44 CDT 2019GET http://aglobal.go.com/stat/dolWebAnalytics.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:44 CDT 2019GET http://imasdk.googleapis.com/js/sdkloader/ima3.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:44 CDT 2019POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:44 CDT 2019POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:44 CDT 2019POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:44 CDT 2019POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:44 CDT 2019GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=1&partnerId=1068292&entryId=1_7km0vsxg&sessionId=66cec17b-99f0-9c11-f0ed-7e79cb0e258a%3A1faab9fe-a94f-e39a-67b5-274ef4c1f073&eventIndex=1&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:44 CDT 2019GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=1&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412204874&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=66cec17b-99f0-9c11-f0ed-7e79cb0e258a%3A1faab9fe-a94f-e39a-67b5-274ef4c1f073&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:44 CDT 2019GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=2&partnerId=1068292&entryId=1_7km0vsxg&sessionId=66cec17b-99f0-9c11-f0ed-7e79cb0e258a%3A1faab9fe-a94f-e39a-67b5-274ef4c1f073&eventIndex=2&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:45 CDT 2019GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=2&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412205020&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=66cec17b-99f0-9c11-f0ed-7e79cb0e258a%3A1faab9fe-a94f-e39a-67b5-274ef4c1f073&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:45 CDT 2019GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=3&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412205027&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=66cec17b-99f0-9c11-f0ed-7e79cb0e258a%3A1faab9fe-a94f-e39a-67b5-274ef4c1f073&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:45 CDT 2019GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&actualBitrate=493.7373046875&eventType=43&partnerId=1068292&entryId=1_7km0vsxg&sessionId=66cec17b-99f0-9c11-f0ed-7e79cb0e258a%3A1faab9fe-a94f-e39a-67b5-274ef4c1f073&eventIndex=3&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:45 CDT 2019GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&bufferTime=0&bufferTimeSum=0&actualBitrate=493.7373046875&joinTime=0.132&canPlay=0.254&eventType=3&partnerId=1068292&entryId=1_7km0vsxg&sessionId=66cec17b-99f0-9c11-f0ed-7e79cb0e258a%3A1faab9fe-a94f-e39a-67b5-274ef4c1f073&eventIndex=4&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:45 CDT 2019GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=33&partnerId=1068292&entryId=1_7km0vsxg&sessionId=66cec17b-99f0-9c11-f0ed-7e79cb0e258a%3A1faab9fe-a94f-e39a-67b5-274ef4c1f073&eventIndex=5&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0.788979&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:46 CDT 2019GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:36:47 CDT 2019GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:37:45 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:37:57 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:37:59 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:00 CDT 2019
+GET http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:37:59 CDT 2019
+GET http://go.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:37:59 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:00 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:00 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:00 CDT 2019
+GET http://aglobal.go.com/stat/dolWebAnalytics.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:00 CDT 2019
+GET http://imasdk.googleapis.com/js/sdkloader/ima3.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:00 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=1&partnerId=1068292&entryId=1_7km0vsxg&sessionId=5c2d38ae-cfb3-b663-fe3b-0558fe6699f7%3A72be2ab7-bf0a-bbe4-b723-a2e80565aa27&eventIndex=1&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:00 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=1&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412280765&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=5c2d38ae-cfb3-b663-fe3b-0558fe6699f7%3A72be2ab7-bf0a-bbe4-b723-a2e80565aa27&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:00 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=2&partnerId=1068292&entryId=1_7km0vsxg&sessionId=5c2d38ae-cfb3-b663-fe3b-0558fe6699f7%3A72be2ab7-bf0a-bbe4-b723-a2e80565aa27&eventIndex=2&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:01 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=2&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412281147&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=5c2d38ae-cfb3-b663-fe3b-0558fe6699f7%3A72be2ab7-bf0a-bbe4-b723-a2e80565aa27&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:01 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=3&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412281162&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=5c2d38ae-cfb3-b663-fe3b-0558fe6699f7%3A72be2ab7-bf0a-bbe4-b723-a2e80565aa27&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:01 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&actualBitrate=493.7373046875&eventType=43&partnerId=1068292&entryId=1_7km0vsxg&sessionId=5c2d38ae-cfb3-b663-fe3b-0558fe6699f7%3A72be2ab7-bf0a-bbe4-b723-a2e80565aa27&eventIndex=3&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:01 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&bufferTime=0&bufferTimeSum=0&actualBitrate=493.7373046875&joinTime=0.269&canPlay=0.632&eventType=3&partnerId=1068292&entryId=1_7km0vsxg&sessionId=5c2d38ae-cfb3-b663-fe3b-0558fe6699f7%3A72be2ab7-bf0a-bbe4-b723-a2e80565aa27&eventIndex=4&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:01 CDT 2019
+GET http://go.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:02 CDT 2019
+GET http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:02 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:02 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:03 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:03 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:03 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:03 CDT 2019
+GET http://aglobal.go.com/stat/dolWebAnalytics.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:03 CDT 2019
+GET http://imasdk.googleapis.com/js/sdkloader/ima3.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:03 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=1&partnerId=1068292&entryId=1_7km0vsxg&sessionId=59b6468d-ee01-4bbf-5912-d571a17a7089%3Ab343d24e-cef8-2797-a0f0-bd384b606512&eventIndex=1&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:03 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=1&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412283670&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=59b6468d-ee01-4bbf-5912-d571a17a7089%3Ab343d24e-cef8-2797-a0f0-bd384b606512&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:03 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=2&partnerId=1068292&entryId=1_7km0vsxg&sessionId=59b6468d-ee01-4bbf-5912-d571a17a7089%3Ab343d24e-cef8-2797-a0f0-bd384b606512&eventIndex=2&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:03 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=2&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412283849&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=59b6468d-ee01-4bbf-5912-d571a17a7089%3Ab343d24e-cef8-2797-a0f0-bd384b606512&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:03 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=3&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412283861&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=59b6468d-ee01-4bbf-5912-d571a17a7089%3Ab343d24e-cef8-2797-a0f0-bd384b606512&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:03 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&actualBitrate=493.7373046875&eventType=43&partnerId=1068292&entryId=1_7km0vsxg&sessionId=59b6468d-ee01-4bbf-5912-d571a17a7089%3Ab343d24e-cef8-2797-a0f0-bd384b606512&eventIndex=3&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:04 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&bufferTime=0&bufferTimeSum=0&actualBitrate=493.7373046875&joinTime=0.347&canPlay=0.506&eventType=3&partnerId=1068292&entryId=1_7km0vsxg&sessionId=59b6468d-ee01-4bbf-5912-d571a17a7089%3Ab343d24e-cef8-2797-a0f0-bd384b606512&eventIndex=4&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:04 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=33&partnerId=1068292&entryId=1_7km0vsxg&sessionId=59b6468d-ee01-4bbf-5912-d571a17a7089%3Ab343d24e-cef8-2797-a0f0-bd384b606512&eventIndex=5&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0.460748&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:04 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:38:06 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:13 CDT 2019
+POST http://ocsp.digicert.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:15 CDT 2019
+POST http://ocsp.digicert.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:15 CDT 2019
+POST http://ocsp.digicert.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:15 CDT 2019
+POST http://ocsp.digicert.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:15 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:16 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:17 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:17 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:18 CDT 2019
+GET http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:18 CDT 2019
+GET http://go.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:18 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:19 CDT 2019
+POST http://ocsp.entrust.net/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:19 CDT 2019
+GET http://aglobal.go.com/stat/dolWebAnalytics.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:19 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:19 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:19 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:19 CDT 2019
+GET http://imasdk.googleapis.com/js/sdkloader/ima3.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:19 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:19 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=1&partnerId=1068292&entryId=1_7km0vsxg&sessionId=57548f00-ce1e-1461-cf17-ae79ea9ff8a8%3A740f6474-8071-7492-cec9-055e59740168&eventIndex=1&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:19 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=1&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412419995&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=57548f00-ce1e-1461-cf17-ae79ea9ff8a8%3A740f6474-8071-7492-cec9-055e59740168&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:19 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=2&partnerId=1068292&entryId=1_7km0vsxg&sessionId=57548f00-ce1e-1461-cf17-ae79ea9ff8a8%3A740f6474-8071-7492-cec9-055e59740168&eventIndex=2&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:20 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=2&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412420215&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=57548f00-ce1e-1461-cf17-ae79ea9ff8a8%3A740f6474-8071-7492-cec9-055e59740168&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:20 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=3&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412420218&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=57548f00-ce1e-1461-cf17-ae79ea9ff8a8%3A740f6474-8071-7492-cec9-055e59740168&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:20 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&actualBitrate=493.7373046875&eventType=43&partnerId=1068292&entryId=1_7km0vsxg&sessionId=57548f00-ce1e-1461-cf17-ae79ea9ff8a8%3A740f6474-8071-7492-cec9-055e59740168&eventIndex=3&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:20 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&bufferTime=0&bufferTimeSum=0&actualBitrate=493.7373046875&joinTime=0.271&canPlay=0.479&eventType=3&partnerId=1068292&entryId=1_7km0vsxg&sessionId=57548f00-ce1e-1461-cf17-ae79ea9ff8a8%3A740f6474-8071-7492-cec9-055e59740168&eventIndex=4&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:20 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:22 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&actualBitrate=4083.1064453125&eventType=43&partnerId=1068292&entryId=1_7km0vsxg&sessionId=57548f00-ce1e-1461-cf17-ae79ea9ff8a8%3A740f6474-8071-7492-cec9-055e59740168&eventIndex=5&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=2.044489&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:22 CDT 2019
+GET http://go.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:23 CDT 2019
+GET http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:23 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:23 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:23 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:23 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:23 CDT 2019
+GET http://aglobal.go.com/stat/dolWebAnalytics.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:23 CDT 2019
+GET http://imasdk.googleapis.com/js/sdkloader/ima3.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:24 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:24 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:24 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:24 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=1&partnerId=1068292&entryId=1_7km0vsxg&sessionId=2372acfc-cc43-98f2-7dd7-7a278b2b98db%3A34b3249f-e30a-7f6b-91a3-0daa2bf2fca0&eventIndex=1&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:24 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=1&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412424294&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=2372acfc-cc43-98f2-7dd7-7a278b2b98db%3A34b3249f-e30a-7f6b-91a3-0daa2bf2fca0&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:24 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=2&partnerId=1068292&entryId=1_7km0vsxg&sessionId=2372acfc-cc43-98f2-7dd7-7a278b2b98db%3A34b3249f-e30a-7f6b-91a3-0daa2bf2fca0&eventIndex=2&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:24 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=2&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412424434&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=2372acfc-cc43-98f2-7dd7-7a278b2b98db%3A34b3249f-e30a-7f6b-91a3-0daa2bf2fca0&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:24 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=3&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412424445&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=2372acfc-cc43-98f2-7dd7-7a278b2b98db%3A34b3249f-e30a-7f6b-91a3-0daa2bf2fca0&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:24 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&actualBitrate=493.7373046875&eventType=43&partnerId=1068292&entryId=1_7km0vsxg&sessionId=2372acfc-cc43-98f2-7dd7-7a278b2b98db%3A34b3249f-e30a-7f6b-91a3-0daa2bf2fca0&eventIndex=3&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:24 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&bufferTime=0&bufferTimeSum=0&actualBitrate=493.7373046875&joinTime=0.163&canPlay=0.275&eventType=3&partnerId=1068292&entryId=1_7km0vsxg&sessionId=2372acfc-cc43-98f2-7dd7-7a278b2b98db%3A34b3249f-e30a-7f6b-91a3-0daa2bf2fca0&eventIndex=4&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:24 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:25 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=33&partnerId=1068292&entryId=1_7km0vsxg&sessionId=2372acfc-cc43-98f2-7dd7-7a278b2b98db%3A34b3249f-e30a-7f6b-91a3-0daa2bf2fca0&eventIndex=5&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=1.114126&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:40:25 CDT 2019
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:50 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:57 CDT 2019
+GET http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:57 CDT 2019
+GET http://go.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:56 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:57 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:57 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:57 CDT 2019
+GET http://aglobal.go.com/stat/dolWebAnalytics.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:57 CDT 2019
+GET http://imasdk.googleapis.com/js/sdkloader/ima3.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:57 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=1&partnerId=1068292&entryId=1_7km0vsxg&sessionId=ac1afc4c-36ab-fffd-c698-dda6b09e846d%3Aaecc8b5b-5d5d-bb37-24e0-66c640744657&eventIndex=1&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:57 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=2&partnerId=1068292&entryId=1_7km0vsxg&sessionId=ac1afc4c-36ab-fffd-c698-dda6b09e846d%3Aaecc8b5b-5d5d-bb37-24e0-66c640744657&eventIndex=2&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:58 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=1&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412517930&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=ac1afc4c-36ab-fffd-c698-dda6b09e846d%3Aaecc8b5b-5d5d-bb37-24e0-66c640744657&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:57 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=2&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412518066&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=ac1afc4c-36ab-fffd-c698-dda6b09e846d%3Aaecc8b5b-5d5d-bb37-24e0-66c640744657&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:58 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=3&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412518074&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=ac1afc4c-36ab-fffd-c698-dda6b09e846d%3Aaecc8b5b-5d5d-bb37-24e0-66c640744657&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:58 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&actualBitrate=493.7373046875&eventType=43&partnerId=1068292&entryId=1_7km0vsxg&sessionId=ac1afc4c-36ab-fffd-c698-dda6b09e846d%3Aaecc8b5b-5d5d-bb37-24e0-66c640744657&eventIndex=3&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:58 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&bufferTime=0&bufferTimeSum=0&actualBitrate=493.7373046875&joinTime=0.332&canPlay=0.448&eventType=3&partnerId=1068292&entryId=1_7km0vsxg&sessionId=ac1afc4c-36ab-fffd-c698-dda6b09e846d%3Aaecc8b5b-5d5d-bb37-24e0-66c640744657&eventIndex=4&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:58 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=33&partnerId=1068292&entryId=1_7km0vsxg&sessionId=ac1afc4c-36ab-fffd-c698-dda6b09e846d%3Aaecc8b5b-5d5d-bb37-24e0-66c640744657&eventIndex=5&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0.664444&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:41:59 CDT 2019
+GET http://go.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:00 CDT 2019
+GET http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:00 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:00 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:00 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:00 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:00 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:00 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:00 CDT 2019
+GET http://aglobal.go.com/stat/dolWebAnalytics.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:00 CDT 2019
+GET http://imasdk.googleapis.com/js/sdkloader/ima3.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:01 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=1&partnerId=1068292&entryId=1_7km0vsxg&sessionId=5a0d4d7c-b88e-6ba2-38cb-928eae4b1321%3Ae6ddd95d-1fbc-59a5-b41e-8a6a580b092a&eventIndex=1&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:01 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=1&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412521278&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=5a0d4d7c-b88e-6ba2-38cb-928eae4b1321%3Ae6ddd95d-1fbc-59a5-b41e-8a6a580b092a&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:01 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=2&partnerId=1068292&entryId=1_7km0vsxg&sessionId=5a0d4d7c-b88e-6ba2-38cb-928eae4b1321%3Ae6ddd95d-1fbc-59a5-b41e-8a6a580b092a&eventIndex=2&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:01 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=2&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412521411&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=5a0d4d7c-b88e-6ba2-38cb-928eae4b1321%3Ae6ddd95d-1fbc-59a5-b41e-8a6a580b092a&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:01 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=3&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412521421&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=5a0d4d7c-b88e-6ba2-38cb-928eae4b1321%3Ae6ddd95d-1fbc-59a5-b41e-8a6a580b092a&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:01 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&actualBitrate=493.7373046875&eventType=43&partnerId=1068292&entryId=1_7km0vsxg&sessionId=5a0d4d7c-b88e-6ba2-38cb-928eae4b1321%3Ae6ddd95d-1fbc-59a5-b41e-8a6a580b092a&eventIndex=3&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:01 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:01 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:01 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&bufferTime=0&bufferTimeSum=0&actualBitrate=493.7373046875&joinTime=0.14&canPlay=0.246&eventType=3&partnerId=1068292&entryId=1_7km0vsxg&sessionId=5a0d4d7c-b88e-6ba2-38cb-928eae4b1321%3Ae6ddd95d-1fbc-59a5-b41e-8a6a580b092a&eventIndex=4&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:01 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:01 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=33&partnerId=1068292&entryId=1_7km0vsxg&sessionId=5a0d4d7c-b88e-6ba2-38cb-928eae4b1321%3Ae6ddd95d-1fbc-59a5-b41e-8a6a580b092a&eventIndex=5&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0.787482&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:02 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:42:04 CDT 2019/nGET http://detectportal.firefox.com/success.txt HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:42:59 CDT 2019/nGET http://detectportal.firefox.com/success.txt HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:02 CDT 2019/nGET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:02 CDT 2019/nGET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:02 CDT 2019/nGET http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:02 CDT 2019/nGET http://go.com/ HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:02 CDT 2019/nGET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:02 CDT 2019/nGET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:02 CDT 2019/nGET http://aglobal.go.com/stat/dolWebAnalytics.js HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:03 CDT 2019/nGET http://imasdk.googleapis.com/js/sdkloader/ima3.js HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:03 CDT 2019/nGET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=1&partnerId=1068292&entryId=1_7km0vsxg&sessionId=aa973fa7-77ac-2672-d832-2b183a9e1d65%3A1f59db73-bca3-5d1d-d424-2a3de7179c17&eventIndex=1&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:03 CDT 2019/nGET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=1&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412583551&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=aa973fa7-77ac-2672-d832-2b183a9e1d65%3A1f59db73-bca3-5d1d-d424-2a3de7179c17&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:03 CDT 2019/nGET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=2&partnerId=1068292&entryId=1_7km0vsxg&sessionId=aa973fa7-77ac-2672-d832-2b183a9e1d65%3A1f59db73-bca3-5d1d-d424-2a3de7179c17&eventIndex=2&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:03 CDT 2019/nGET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=2&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412583682&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=aa973fa7-77ac-2672-d832-2b183a9e1d65%3A1f59db73-bca3-5d1d-d424-2a3de7179c17&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:03 CDT 2019/nGET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=3&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412583691&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=aa973fa7-77ac-2672-d832-2b183a9e1d65%3A1f59db73-bca3-5d1d-d424-2a3de7179c17&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:03 CDT 2019/nGET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&actualBitrate=493.7373046875&eventType=43&partnerId=1068292&entryId=1_7km0vsxg&sessionId=aa973fa7-77ac-2672-d832-2b183a9e1d65%3A1f59db73-bca3-5d1d-d424-2a3de7179c17&eventIndex=3&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:03 CDT 2019/nGET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&bufferTime=0&bufferTimeSum=0&actualBitrate=493.7373046875&joinTime=0.351&canPlay=0.451&eventType=3&partnerId=1068292&entryId=1_7km0vsxg&sessionId=aa973fa7-77ac-2672-d832-2b183a9e1d65%3A1f59db73-bca3-5d1d-d424-2a3de7179c17&eventIndex=4&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:04 CDT 2019/nGET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=33&partnerId=1068292&entryId=1_7km0vsxg&sessionId=aa973fa7-77ac-2672-d832-2b183a9e1d65%3A1f59db73-bca3-5d1d-d424-2a3de7179c17&eventIndex=5&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0.909387&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:05 CDT 2019/nGET http://detectportal.firefox.com/success.txt HTTP/1.1/n/127.0.0.1
+Sun Oct 06 20:43:05 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:50 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:51 CDT 2019
+GET http://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:51 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:51 CDT 2019
+GET http://a.dilcdn.com/g/domains/go.com.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:51 CDT 2019
+GET http://go.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:51 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:52 CDT 2019
+POST http://ocsp.entrust.net/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:52 CDT 2019
+GET http://aglobal.go.com/stat/dolWebAnalytics.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:52 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:52 CDT 2019
+GET http://www.googletagservices.com/tag/js/gpt.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:52 CDT 2019
+GET http://imasdk.googleapis.com/js/sdkloader/ima3.js HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:52 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=1&partnerId=1068292&entryId=1_7km0vsxg&sessionId=8c54387f-5a59-c18e-2b3d-2b91ef6156ed%3A1976b0e3-0112-e86f-6f9c-51e525947f75&eventIndex=1&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:52 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=1&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412692721&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=8c54387f-5a59-c18e-2b3d-2b91ef6156ed%3A1976b0e3-0112-e86f-6f9c-51e525947f75&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:52 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=2&partnerId=1068292&entryId=1_7km0vsxg&sessionId=8c54387f-5a59-c18e-2b3d-2b91ef6156ed%3A1976b0e3-0112-e86f-6f9c-51e525947f75&eventIndex=2&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:52 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=2&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412692840&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=8c54387f-5a59-c18e-2b3d-2b91ef6156ed%3A1976b0e3-0112-e86f-6f9c-51e525947f75&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:52 CDT 2019
+GET http://stats.kaltura.com/api_v3/index.php?service=stats&action=collect&apiVersion=3.3.0&format=1&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&clientTag=html5%3Av0.40.15&event%3AeventType=3&event%3AisFirstInSession=false&event%3AeventTimestamp=1570412692848&event%3AcurrentPoint=0&event%3Aduration=NaN&event%3Aseek=false&event%3AclientVer=0.40.15&event%3AentryId=1_7km0vsxg&event%3AsessionId=8c54387f-5a59-c18e-2b3d-2b91ef6156ed%3A1976b0e3-0112-e86f-6f9c-51e525947f75&event%3AuiConfId=41907192&event%3ApartnerId=1068292&event%3AwidgetId=_1068292&event%3Areferrer=http%3A%2F%2Fgo.com%2F&hasKanalony=true HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:52 CDT 2019
+POST http://ocsp.pki.goog/gts1o1 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:53 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&actualBitrate=493.7373046875&eventType=43&partnerId=1068292&entryId=1_7km0vsxg&sessionId=8c54387f-5a59-c18e-2b3d-2b91ef6156ed%3A1976b0e3-0112-e86f-6f9c-51e525947f75&eventIndex=3&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:53 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&bufferTime=0&bufferTimeSum=0&actualBitrate=493.7373046875&joinTime=0.295&canPlay=0.387&eventType=3&partnerId=1068292&entryId=1_7km0vsxg&sessionId=8c54387f-5a59-c18e-2b3d-2b91ef6156ed%3A1976b0e3-0112-e86f-6f9c-51e525947f75&eventIndex=4&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:53 CDT 2019
+GET http://analytics.kaltura.com/api_v3/index.php?service=analytics&action=trackEvent&apiVersion=3.3.0&format=1&eventType=33&partnerId=1068292&entryId=1_7km0vsxg&sessionId=8c54387f-5a59-c18e-2b3d-2b91ef6156ed%3A1976b0e3-0112-e86f-6f9c-51e525947f75&eventIndex=5&referrer=http%3A%2F%2Fgo.com%2F&deliveryType=hls&playbackType=vod&clientVer=0.40.15&clientTag=html5%3Av0.40.15&position=0.707981&ks=YWU3NDdhOTNiYjdjNmU0ZGNiMjY2MGEyY2UzMDMwZjQzZjYxNDlhZHwxMDY4MjkyOzEwNjgyOTI7MTU3MDQ1Mzk3NTswOzE1NzA0MTA3NzUuOTMzMzs7c2Vzc2lvbmlkOjBfNjQ3ZW82ZGQsYXBwdG9rZW46MF82NDdlbzZkZCxzdmlldzoqOzs%3D&uiConfId=41907192 HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:53 CDT 2019
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:54 CDT 2019
+POST http://status.geotrust.com/ HTTP/1.1
+/127.0.0.1
+Sun Oct 06 20:44:54 CDT 2019
